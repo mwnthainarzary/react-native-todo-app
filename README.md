@@ -1,1 +1,2 @@
-# react-native-todo-app
+# React-native-todo-app
+# Required Expo Install
